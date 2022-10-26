@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LorisGaven
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently studying Applied Mathematics and Computer Science at ENSEEIHT
 - 📫 How to reach me : loris.gaven@gmail.com
